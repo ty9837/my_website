@@ -1,16 +1,17 @@
 baseURL: https://tianyiying.netlify.app/
 languageCode: en-us
-title: Welcome to My Website
+title: Portfolio Website for Tianyi Ying
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-#    subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Tianyi Ying. I am currently studying in the Masters in Financial Analysis program at London Business School.
+    subtitle: |-
+      Masters in Financial Analysis, Class of 2022
+#      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+#      AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Welcome to Tianyi Ying's Website!
   blog: {}
   contact:
     address:
@@ -35,7 +36,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Tianyi Ying
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -43,11 +44,11 @@ params:
         url: https://www.html5up.net
     social:
 #      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
+#        label: Twitter
+#        url: https://www.twitter.com
 #      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
+#        label: Facebook
+#        url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com/realllyty/
@@ -81,7 +82,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: lbs.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
         url: blogs/aliquam
