@@ -11,7 +11,7 @@ params:
       Masters in Financial Analysis, Class of 2022
 #      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
 #      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Welcome to Tianyi Ying's Website!
+    title: Hi, this is Tianyi Ying
   blog: {}
   contact:
     address:
@@ -83,29 +83,21 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        subtitle: Background and Experience
+        title: My Story
+        url: blogs/about_me
+      - image: sf1.jpg
+        subtitle: Data Analytics for Finance Project
+        title: AirBnB in San Francisco
+        url: blogs/risk_return
+      - image: gdp.jpg
+        subtitle: GDP components over time and among countries
+        title: Gross Domestic Product
+        url: blogs/gdp
+      - image: CV1.JPG
+        subtitle: Academic and Professional Experience
+        title: CV
+        url: blogs/Ty Ying_Resume.PDF
   two:
     buttonText: Get Started
     enable: yes

@@ -1,0 +1,41 @@
+---
+categories:  
+- ""    #the front matter should be like the one found in, e.g., blog2.md. It cannot be like the normal Rmd we used
+- ""
+date: "2021-10-20"
+description: My Story # the title that will show up once someone gets to this page
+draft: false
+image: '' # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+
+keywords: ""
+slug: about_me # slug is the shorthand URL address... no spaces plz
+title: My Story
+---
+
+Hi all, my name is Tianyi Ying. I was born and raised in Ningbo, a major sub-provincial city in northeast Zhejiang province, People's Republic of China. It comprises 6 urban districts, 2 satellite county-level cities, and 2 rural counties including several islands in Hangzhou Bay and the East China Sea. Ningbo is the southern economic center of the Yangtze Delta megalopolis, and is also the core city and center of the Ningbo Metropolitan Area.
+
+```{r, echo=FALSE}
+knitr::include_graphics("/img/nb.png",error =FALSE)
+```
+
+At the age of 14, I went United States for high school. I spent 4 years at Rutgers Preparatory School, New Jersey. The first month was extremely tough for me since it was my first time living in another country at such a young age. RPS is a day school, so I stayed with a Jewish host family. They treated me as if I were their own child, and that gave me a sense of home again. I also made many friends who helped me adapt to the novel environment more quickly. Those 4 years were important parts of my life as they marked the beginning of my adventure in a new country.
+
+```{r, echo=FALSE, figures-side, fig.show="hold", out.height=320, out.width="50%"}
+knitr::include_graphics("/img/rps.png", error =FALSE)
+knitr::include_graphics("/img/rps2.jpg", error =FALSE)
+```
+
+After graduated from RPS, I joined New York University for my undergraduate study. New York City is very different compared to any other places I have been to. I totally fell in love with the city the first day I stepped onto the campus. NYU is a school with no boundaries in a way that the school emerges into the city. Students actually share the same roads with people in the city as they walk between school buildings. Encountering different things and people at NYC, everyday was special and not the same as the previous ones. The college experience at NYU has been the best and most precious memory of my life so far.
+
+```{r, echo=FALSE, out.height="50%", out.width="50%"}
+knitr::include_graphics("/img/nyu.jpg",error =FALSE)
+knitr::include_graphics("/img/nyu2.jpg",error =FALSE)
+```
+
+Now I have just started a new chapter at London Business School, and London is going to be the third city where I will spend some quality times during my journey. Not sure where I would be in 2 years, but my stories will continue to flow.
+
+```{r, echo=FALSE}
+knitr::include_graphics("/img/london2.jpeg",error =FALSE)
+```
+
+To be continued...
