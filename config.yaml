@@ -63,7 +63,7 @@ params:
   navigation:
     button1:
       - name: Get Started
-        url: blogs
+        url: ''
     button2:
       - name: Log In
         url: '#'
@@ -71,11 +71,11 @@ params:
       - name: Home
         url: '#'
       - name: Blogs
-        url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+        url: ''
+#      - name: Generic Blog
+#        url: blogs/ipsum
+#      - name: Elements
+#        url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty 
@@ -101,11 +101,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
-    url: blogs
+    subtitle: "This course is an introduction to using R/Rstudio to learn from data. It aims to teach useful skills: data importing, data filtering and manipulation, visualization, inferential statistics, and data modelling."
+    title: Data Analytics for Finance
+    url: ''
