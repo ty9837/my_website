@@ -78,7 +78,7 @@ params:
         url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
-    title: Forty
+    title: Forty 
   tiles:
     enable: yes
     showcase:
@@ -86,10 +86,10 @@ params:
         subtitle: Background and Experience
         title: My Story
         url: blogs/about_me
-      - image: sf1.jpg
-        subtitle: Data Analytics for Finance Project
-        title: AirBnB in San Francisco
-        url: blogs/risk_return
+      - image: yc.jpg
+        subtitle: Study of an inverted yield curve
+        title: Yield Curve inversion
+        url: blogs/yc
       - image: gdp.jpg
         subtitle: GDP components over time and among countries
         title: Gross Domestic Product
